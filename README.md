@@ -1,5 +1,11 @@
-# Hello, folks!
-My name is Bruno Taras and I want to become a software developer one day. I'm from Croatia, living in Varaždin and currently I am studying for my masters degree on Faculty of organization and Informatics. Also you can find me on LinkedIn ( https://www.linkedin.com/in/bruno-taras-68358b1ba/ ) 
+# Greetings, 
+As an experienced developer with over 2 years of experience in the IT sector, I have honed my skills and expertise in various technologies. I have a strong background in working with Agile methodology, ensuring efficient and collaborative project delivery. My passion for technology, particularly computers and smartphones, has driven me to continuously learn and enhance my abilities.
+
+During my college years, I discovered my interest and ambition for programming, which set me on a path of growth and professional development. I have hands-on experience with a wide range of technologies and frameworks, including ReactJS, React Native, Unity, ArgoCD, Helm Charts, Kubernetes, Docker, Spring Boot, C#, PostgreSQL, MySQL, and Microsoft SQL Server. These experiences have allowed me to tackle diverse projects and gain proficiency in both front-end and back-end development.
+
+Continual learning and self-improvement are integral to my career journey. Currently, I am actively learning Flutter and AWS, and I have a strong desire to further expand my knowledge by delving into Swift.
+
+In addition to being a responsible and hardworking individual, I thrive in a team-oriented environment, adapting seamlessly to different situations and collaborating effectively with colleagues. My goal is to leverage my skills, experience, and enthusiasm to contribute to impactful projects and drive innovation in the field of software development.
 # Technologies & Tools
 ![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<OS>-<WINDOWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
